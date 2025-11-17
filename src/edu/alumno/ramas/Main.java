@@ -18,5 +18,6 @@ public class Main {
         System.out.println("Suma de principales: " + suma);
         System.out.println("¡Suerte ganando el bote!");
         System.out.println("¡Suerte en el sorteo, DAM!");
+        System.out.println("Cambio realizado desde GitHub");
     }
 }
